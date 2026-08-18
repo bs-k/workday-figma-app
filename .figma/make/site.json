@@ -1,0 +1,10 @@
+{
+  "description": "Easily create and format content using Markdown, ideal for writers and developers seeking a streamlined way to produce clean, professional documents.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
